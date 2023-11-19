@@ -1,10 +1,12 @@
 import styled from "styled-components";
 
-import Input from "../../ui/Input";
+//import Input from "../../ui/Input";
 import Form from "../../ui/Form";
 import Button from "../../ui/Button";
 import FileInput from "../../ui/FileInput";
 import Textarea from "../../ui/Textarea";
+
+import Input from "../../src/ui/Input"
 
 const FormRow = styled.div`
   display: grid;
