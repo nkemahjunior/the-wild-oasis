@@ -59,6 +59,7 @@ function BookingRow({
     guests: { fullName: guestName, email },
     cabins: { name: cabinName },
   },
+  
 }) {
   const navigate = useNavigate();
   const { checkout, isCheckingOut } = useCheckout();
