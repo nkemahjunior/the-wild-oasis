@@ -1,5 +1,7 @@
-#the wild oasis
+#the wild oasis,main project in jonas react course
 
-Main project in jonas schmedtman's react course
+-internal hotel management app where hotel staff can check customer bookings and create new users
+-built with react and supabase
 
-//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: this is the git token password for the wild oasis repo
+-login with email = user1@gmail.com, password=12345678
+
